@@ -1,6 +1,6 @@
 # Payments Data Server
 
-This is a mock server for a Circle Internet Financial interview problem.  It is a Node.js server that produces a stream of data describing peer-to-peer payments.  It has three endpoints, described below, that your interview problem will probably ask you to interact with in some fashion.  You'll need to start up and run the server for your development environment, for which there are instructions below.  You may not modify the server's code to support your answer, though you're welcome to read through it if that's useful to you.
+It is a Node.js server that produces a stream of data describing peer-to-peer payments.  It has three endpoints, described below, that your interview problem will probably ask you to interact with in some fashion.  You'll need to start up and run the server for your development environment, for which there are instructions below.  You may not modify the server's code to support your answer, though you're welcome to read through it if that's useful to you.
 
 
 ## Starting the Server
