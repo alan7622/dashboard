@@ -1,6 +1,6 @@
 # Payments Data Dashboard
 
-This is a Circle Internet Financial interview problem to create a dashboard to display some peer-to-peer payments data.  You've been given a web server that produces some data describing a stream of peer-to-peer payments.  You should create a React.js or Vue.js web dashboard that displays the data.
+Create a dashboard to display some peer-to-peer payments data.  You've been given a web server that produces some data describing a stream of peer-to-peer payments.  You should create a React.js or Vue.js web dashboard that displays the data.
 
 
 ## Server
